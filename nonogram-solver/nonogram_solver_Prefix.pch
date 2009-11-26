@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'nonogram-solver' target in the 'nonogram-solver' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
