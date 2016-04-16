@@ -1,0 +1,1 @@
+The purpose of this project it to develop a graphical nonogram solver that can solve any valid nongram that does not require contradictions to solve.
